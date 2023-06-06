@@ -1,2 +1,2 @@
 # GlasesStore
-GlasesStore is a mobile application that allows users to browse and purchase glasses
+GlasesStore is a mobile application that allows users to browse and purchase glasses. With the app, users can try on glasses virtually using the built-in face detection feature powered by Google ML Kit API. They can add their favorite glasses to the cart, complete secure transactions, and receive notifications about new arrivals and order updates. iGlasesStore also provides user authentication, a rating system, and a feedback feature to enhance the overall shopping experience. Built with Firebase and Google ML Kit API.
