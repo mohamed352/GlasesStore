@@ -2,17 +2,19 @@
 GlasesStore is a mobile application that allows users to browse and purchase glasses. With the app, users can try on glasses virtually using the built-in face detection feature powered by Google ML Kit API. They can add their favorite glasses to the cart, complete secure transactions, and receive notifications about new arrivals and order updates. iGlasesStore also provides user authentication, a rating system, and a feedback feature to enhance the overall shopping experience. Built with Firebase and Google ML Kit API.
 
 ## Screenshots
-| Intro                                          | SingUp                                  | Login                                             |
+| Login                                          | Otb                                  | Glases                                             |
 | --------------------------------------------------- | ------------------------------------- | --------------------------------------------------------- |
-| ![intro_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/e418aefa-fef4-4da8-accc-405bf7bf0928) | ![singUp_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/dd436e0a-8d6f-4881-bfa4-76893f58e910) |![login_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/291218d6-b09f-40f7-909f-5adc1c9a1f30) |
+| ![Login_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/ff53a6a9-9418-46ab-a74f-68a09c2d0679)|![Otb_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/183b5295-5128-4d8c-bf3b-666fb7af96c3) |![MenGlases_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/b0e865b6-28a6-4ae6-b6fe-1123a12f2c0a) |
 
-| home                                           | story                                           | Post                                           |
+| Home                                           | Drawer                                           | Deatils                                           |
 | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| ![home_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/8a3d8fe2-cdca-46eb-9ca4-a06663e46ab2) | ![story_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/87988be2-55e9-43ef-b584-2c3852fb64e1) |![newpost_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/2a189c3e-15cd-4c46-8ba5-1346435d0568) |
+| ![Home_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/0e245bf2-1d51-4755-8a62-e893ca0848b4)| ![Drawer_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/86a8f86a-e0b9-489c-a3ae-c14dafc0b14b) |![Details_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/2fec69a3-8c80-473a-9541-900a3355587d) |
 
-| Comment                                     | Profile                                            | Setting                                           |
+| CheckOut                                     | PaymentMethod                                            | Deleivery                                           |
 | ------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
-|![Comments_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/4e5abb18-23c0-4677-b865-3153c053743b) | ![profile_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/48ab96ef-a6a2-4549-bbed-500e7c5a56d7) |![setting_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/6e66826a-c9c3-4f08-8450-fef0379ee7e7) |
+|![CheckOut_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/99a7e084-bab0-4350-bd05-69edd7e69e38) | ![Payment_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/e391dc1b-d72c-4a2c-8824-037e07a4ce59)|![PaymentDel_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/3739d496-789c-46e8-aef7-0b685258512c) |
+| NotifiCation                                     | CameraAr             |
+|![Notifications_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/439db04e-eac8-45ee-bdba-b055e81e9bf7) |![Notifications_samsung-galaxys20ultra-cosmicblack-portrait](https://github.com/mohamed352/GlasesStore/assets/48868363/439db04e-eac8-45ee-bdba-b055e81e9bf7) | 
 
 ## Features
 - Live previews
